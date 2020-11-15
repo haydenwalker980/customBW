@@ -3,7 +3,7 @@
 		"public": {
 			"char_limit": 2500,
 			"name_limit": 25,
-			"godword": null,
+			"godword": "mementomori",
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
@@ -26,7 +26,7 @@
 				"pope": 3
 			},
 			"room_max": 8,
-			"owner": null,
+			"owner": "WinfinityXD",
 			"pitch": {
 				"max": 125,
 				"min": 15,
@@ -37,12 +37,12 @@
 				"min": 125,
 				"default": "random"
 			},
-			"defaultName": "Anonymous"
+			"defaultName": "Untitled User"
 		},
 		"private": {
 			"char_limit": 5000,
 			"name_limit": 25,
-			"godword": null,
+			"godword": "unusannus",
 			"runlevel": {
 				"godmode": 0,
 				"youtube": 0,
